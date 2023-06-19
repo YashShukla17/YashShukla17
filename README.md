@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @YashShukla17
-- I am working as ESG Data Analyst in Straive.
-- 👀 I’m interested in Data Analytics.
-- 🌱I'm currently learning Data Analytics skills such as Python, SQL, Tableau,Statistics, Machine Learning.
 - 📫 Reach me at - yashsshukla17@gmail.com
 
 <!---
